@@ -104,5 +104,7 @@ theme: hexo-theme-mater
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hjc-1997/hjc-1997.github.io.git # https://github.com/wangxiaoting666/wangxiaoting666.github.io.git
+  repo: 
+        coding: https://e.coding.net/hjc-blog/hjc-blog/hjc-blog.git
+        github: https://github.com/hjc-1997/hjc-1997.github.io.git # https://github.com/wangxiaoting666/wangxiaoting666.github.io.git
   branch: master
